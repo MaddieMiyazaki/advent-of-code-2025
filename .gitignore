@@ -1,0 +1,10 @@
+# any .idea files and embedded .idea files
+.idea/
+**/.idea/
+
+# any __pycache__ folders and embedded pycache folders
+__pycache__/
+**/__pycache__/
+*.pyc
+
+.vscode/
